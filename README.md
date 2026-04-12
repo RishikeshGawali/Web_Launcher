@@ -1,6 +1,5 @@
 # Web_Launcher
 
-
 This Python program is designed to open URLs from a text file automatically in your web browser. It first checks if an internet connection is available, reads the URLs from a specified file, and then opens each URL in a new tab of the default web browser.
 
 ## Features
