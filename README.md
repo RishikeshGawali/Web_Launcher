@@ -22,7 +22,6 @@ This Python program is designed to open URLs from a text file automatically in y
    https://github.com/Rishikeshgawali/Web_Launcher
    ```
 
-
 2. **Create a text file (e.g., `urls.txt`)** with one URL per line. For example:
    ```txt
    https://www.google.com
